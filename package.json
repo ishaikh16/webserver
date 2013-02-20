@@ -6,13 +6,13 @@
   "dependencies": {
 	   "express": "2.1.0"
   },
-  , "engines": {
-      "node": "0.6.13",
-      "npm": "1.1.41"
-  }
+   "engines": {
+      "node": "0.8.19",
+      "npm": "1.2.10"
+  },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "",
   "keywords": [
