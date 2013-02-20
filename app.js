@@ -1,5 +1,7 @@
+
 	var express = require('express');
 	var app = express();
-	app.use(express.static(__dirname + '/public'));
-	app.listen(4848);
+	var port = process.env.PORT || 4848;
+	var.use(express.static(__dirname + '/public'));
+	app.listen(port);
    
