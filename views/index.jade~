@@ -1,0 +1,17 @@
+extend layout
+block content
+	p 
+		| Mahendra Singh Dhoni, registered as a commerce ( vocational studies) 
+		| student at Ranchi’s St. Xavier’s College, won’t receive his graduation 
+		| degree this February.
+	p
+		| The reason is that Dhoni, who was admitted in 2008 for the three- year 
+		| course, could not clear even one of the six semesters due to his 
+		| cricketing assignments. He has opted for office administration and 
+		| secretarial practices ( OMSP) as subjects. His registration will expire in 2013.
+	block sidebar
+		.widget
+			h1 Widget
+			p
+				| The college, which launched the semester system
+				| after it was granted autonomy in 2005, confers
